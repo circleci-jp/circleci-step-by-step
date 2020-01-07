@@ -1,4 +1,4 @@
-workflow:
+workflows:
   versions: 2
   build:
     jobs:
